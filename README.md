@@ -1,4 +1,4 @@
-# Biernvenido
+# Bienvenido
 github para desarrolladores
 
-[Lenin](fb.com)
+[Lenin](fb.com/RyoZakayary)
